@@ -9,3 +9,5 @@ Using the dog object, give it a method called sayLegs. The method should return 
 Modify the dog.sayLegs method to remove any references to dog. Use the duck example for guidance.
 
 Create a constructor, Dog, with properties name, color, and numLegs that are set to a string, a string, and a number, respectively.
+
+Use the Dog constructor from the last lesson to create a new instance of Dog, assigning it to a variable hound.
