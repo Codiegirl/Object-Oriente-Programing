@@ -23,3 +23,8 @@ Add a numLegs property to the prototype of Dog
 Add all of the own properties of beagle to the array ownProps. Add all of the prototype properties of Dog to the array prototypeProps.
 
 Write a joinDogFraternity function that takes a candidate parameter and, using the constructor property, return true if the candidate is a Dog, otherwise return false
+
+Add the property numLegs and the two methods eat() and describe() to the prototype of Dog by setting the prototype to a new object
+
+Define the constructor property on the Dog prototype.
+
