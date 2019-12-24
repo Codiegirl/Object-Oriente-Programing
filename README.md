@@ -19,3 +19,7 @@ Create a new instance of the House constructor, calling it myHouse and passing a
 Add the own properties of canary to the array ownProps.
 
 Add a numLegs property to the prototype of Dog
+
+Add all of the own properties of beagle to the array ownProps. Add all of the prototype properties of Dog to the array prototypeProps.
+
+Write a joinDogFraternity function that takes a candidate parameter and, using the constructor property, return true if the candidate is a Dog, otherwise return false
