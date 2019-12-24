@@ -17,3 +17,5 @@ Create another Dog constructor. This time, set it up to take the parameters name
 Create a new instance of the House constructor, calling it myHouse and passing a number of bedrooms. Then, use instanceof to verify that it is an instance of House.
 
 Add the own properties of canary to the array ownProps.
+
+Add a numLegs property to the prototype of Dog
