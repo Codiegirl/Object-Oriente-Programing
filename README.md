@@ -28,3 +28,5 @@ Add the property numLegs and the two methods eat() and describe() to the prototy
 
 Define the constructor property on the Dog prototype.
 
+Use isPrototypeOf to check the prototype of beagle.
+
