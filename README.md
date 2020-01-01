@@ -36,4 +36,5 @@ The eat method is repeated in both Cat and Bear. Edit the code in the spirit of 
 
 Use Object.create to make two instances of Animal named duck and beagle
 
+Modify the code so that instances of Dog inherit from Animal.
 
