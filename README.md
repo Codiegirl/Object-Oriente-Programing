@@ -38,3 +38,5 @@ Use Object.create to make two instances of Animal named duck and beagle
 
 Modify the code so that instances of Dog inherit from Animal.
 
+Fix the code so duck.constructor and beagle.constructor return their respective constructors.
+
