@@ -32,5 +32,7 @@ Use isPrototypeOf to check the prototype of beagle.
 
 Modify the code to show the correct prototype chain.
 
+The eat method is repeated in both Cat and Bear. Edit the code in the spirit of DRY by moving the eat method to the Animal supertype.
+
 
 
