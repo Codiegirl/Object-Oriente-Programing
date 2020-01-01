@@ -30,3 +30,7 @@ Define the constructor property on the Dog prototype.
 
 Use isPrototypeOf to check the prototype of beagle.
 
+Modify the code to show the correct prototype chain.
+
+
+
